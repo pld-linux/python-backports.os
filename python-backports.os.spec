@@ -8,7 +8,7 @@ Summary:	Backport of new features in Python's os module
 Summary(pl.UTF-8):	Backport nowych funkcji z modułu Pythona os
 Name:		python-backports.os
 Version:	0.1.1
-Release:	2
+Release:	3
 License:	PSF v2
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/backports-os/
